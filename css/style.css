@@ -16,6 +16,8 @@ html {
     -ms-text-size-adjust: 100%;
     -ms-overflow-style: auto;
     -webkit-tap-highlight-color: transparent;
+    
+    background-image: url("images/background2.avif");
 }
 
 *, ::after, ::before {
@@ -36,15 +38,11 @@ html {
     padding: 0.5rem 1rem;
 }
 
-.navbar:hover {
-  box-shadow: darkgray; 
-}
-
 .jumbotron {
     padding: 2rem 1rem;
     margin-bottom: 2rem;
     background-size: cover;
-    background-color:gray;
+    background-image: url("images/background2.avif");
    
 }
 
