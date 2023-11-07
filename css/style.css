@@ -16,8 +16,6 @@ html {
     -ms-text-size-adjust: 100%;
     -ms-overflow-style: auto;
     -webkit-tap-highlight-color: transparent;
-    
-    background-image: url("images/background2.jpg");
 }
 
 *, ::after, ::before {
