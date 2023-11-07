@@ -17,7 +17,7 @@ html {
     -ms-overflow-style: auto;
     -webkit-tap-highlight-color: transparent;
     
-    background-colour: gray;
+    background-image: url("images/background2.jpg");
 }
 
 *, ::after, ::before {
