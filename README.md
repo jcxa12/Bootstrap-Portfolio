@@ -36,7 +36,7 @@ With this website I sought to show my portfolio along with the projects I'll be 
 
 * Link to my portfolio [Jesica Paez Portfolio](XXX)
 
-* ![Screenshot of the portfolio](XXX)
+* ![Screenshot of the portfolio]([XXX](https://github.com/jcxa12/Portfolio2/blob/main/images/Portfolio2.png)https://github.com/jcxa12/Portfolio2/blob/main/images/Portfolio2.png)
 
 ### Credits
 
