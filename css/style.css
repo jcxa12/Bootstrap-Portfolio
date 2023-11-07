@@ -123,21 +123,6 @@ div {
 
 }
 
-a {transition: box-shadow .3s;
-  width: 300px;
-  height: 500px;
-  margin: 50px;
-  border-radius:10px;
-  border: 1px solid #ccc;
-  background: darkgray;
-  float: left;
-  
-}
-
-.a:hover {
-  box-shadow: 0 0 11px rgba(33,33,33,.2); 
-}
-
 .footer_copyright{
     display: flex;
     width:100%;
