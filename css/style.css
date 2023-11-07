@@ -17,7 +17,7 @@ html {
     -ms-overflow-style: auto;
     -webkit-tap-highlight-color: transparent;
     
-    background-image: url("../images/background2.avif");
+    background-image: url("images/background2.avif");
 }
 
 *, ::after, ::before {
