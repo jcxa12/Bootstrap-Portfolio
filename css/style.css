@@ -41,11 +41,7 @@ html {
 .jumbotron {
     padding: 2rem 1rem;
     margin-bottom: 2rem;
-   
-}
-
-.container {
-     background-size: cover;
+    background-size: cover;
     background-image: url("images/background2.jpg");
 }
 
