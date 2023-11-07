@@ -34,7 +34,7 @@ With this website I sought to show my portfolio along with the projects I'll be 
 
 ### Links
 
-* Link to my portfolio [Jesica Paez Portfolio](https://jcxa12.github.io/Portfolio2/)
+* Link to my portfolio [Jesica Paez Portfolio](https://jcxa12.github.io/Bootstrap-Portfolio/)
 
 * ![Screenshot of the portfolio](https://github.com/jcxa12/Portfolio2/blob/main/images/Portfolio2.png)
 
