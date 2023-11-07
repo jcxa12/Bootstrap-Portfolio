@@ -38,6 +38,10 @@ html {
     padding: 0.5rem 1rem;
 }
 
+.navbar:hover {
+  box-shadow: 0 0 11px rgba(33,33,33,.2); 
+}
+
 .jumbotron {
     padding: 2rem 1rem;
     margin-bottom: 2rem;
