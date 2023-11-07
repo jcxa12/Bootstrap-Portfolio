@@ -129,7 +129,7 @@ a {transition: box-shadow .3s;
   margin: 50px;
   border-radius:10px;
   border: 1px solid #ccc;
-  background: #fff;
+  background: darkgray;
   float: left;
   
 }
