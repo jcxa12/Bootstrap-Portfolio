@@ -41,11 +41,13 @@ html {
 .jumbotron {
     padding: 2rem 1rem;
     margin-bottom: 2rem;
-    background-size: cover;
-    background-image: url("images/background2.jpg");
    
 }
 
+.container {
+     background-size: cover;
+    background-image: url("images/background2.jpg");
+}
 
 #Skill-inner {
     padding: 30px;
